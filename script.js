@@ -15,6 +15,7 @@ cat.sayHi();
 
 
 
-function hundler() {
-    alert("mersu");
-}
+
+
+//В this добавлены свойства и метод.
+// new User() создаёт новый объект со свойством name, color и методом sayHi. 

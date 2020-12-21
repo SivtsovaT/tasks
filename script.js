@@ -19,3 +19,11 @@ cat.sayHi();
 
 //В this добавлены свойства и метод.
 // new User() создаёт новый объект со свойством name, color и методом sayHi. 
+
+https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8/train/javascript
+
+function helloWorld() {
+    let hello = 'variable str is defined';
+    console.log(hello);
+  }
+  helloWorld()
